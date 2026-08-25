@@ -13,7 +13,7 @@ Full Stack Web Developer | UI/UX Developer | Passionate Problem Solver
 * I'm a **Full Stack Web Developer and UI/UX Developer** passionate about creating responsive and user-friendly web applications.
 * I enjoy turning ideas into real-world projects.
 * Currently pursuing **MCA (Master of Computer Applications)** after completing **BSc Computer Science**.
-* Currently improving my skills in **Advanced React, MERN Stack, TypeScript, Backend Development, and Cloud Technologies**.
+* Currently improving my skills in **Advanced React, MERN Stack, Backend Development**.
 * Open to collaborating on exciting web development and open-source projects.
 * Always exploring modern technologies and best development practices.
 * Fun Fact: **I love solving coding challenges and building useful applications.**
@@ -45,7 +45,7 @@ Full Stack Web Developer | UI/UX Developer | Passionate Problem Solver
 # Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,tailwind,bootstrap,git,github,vscode,npm,vite"/>
 </p>
 
 ---
