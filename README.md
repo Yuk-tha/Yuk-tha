@@ -18,13 +18,13 @@
 
 I'm a **Full Stack Web Developer and UI/UX Developer** passionate about building modern, responsive, and user-friendly digital experiences.
 
-🎓 Currently pursuing **MCA (Master of Computer Applications)**  
-💻 Completed **BSc Computer Science**  
-🌐 Interested in **Full Stack Web Development & UI/UX Design**  
-⚛️ Currently working with **React & MERN Stack**  
-🤖 Exploring **AI/ML and intelligent applications**  
-🧩 Enjoy solving problems and turning ideas into real-world projects  
-🚀 Always learning new technologies and development practices  
+- 🎓 Currently pursuing **MCA (Master of Computer Applications)**
+- 💻 Completed **BSc Computer Science**
+- 🌐 Interested in **Full Stack Web Development & UI/UX Design**
+- ⚛️ Currently working with **React & MERN Stack**
+- 🤖 Exploring **AI/ML and intelligent applications**
+- 🧩 Enjoy solving problems and turning ideas into real-world projects
+- 🚀 Always learning new technologies and development practices
 
 > 💡 *I believe great software is not just functional — it should also be simple, intuitive, and enjoyable to use.*
 
@@ -123,40 +123,99 @@ I'm a **Full Stack Web Developer and UI/UX Developer** passionate about building
 
 # 📚 Currently Learning
 
-```text
-React.js          ███████████████████░░   90%
-JavaScript        ██████████████████░░░   85%
-MERN Stack        █████████████████░░░░   80%
-UI/UX Design      ████████████████░░░░░   75%
-Python            ███████████████░░░░░░   70%
-AI / ML           █████████████░░░░░░░░   65%
-TypeScript        ██████████░░░░░░░░░░░   50%
-DSA               ██████████░░░░░░░░░░░   50%
-🎯 Goals for 2026
-🚀 Build and deploy production-ready applications
-⚛️ Master advanced React development
-🛠️ Strengthen MERN stack development
-🧠 Improve Data Structures & Algorithms
-📘 Learn TypeScript
-☁️ Explore Cloud & DevOps technologies
-🤖 Build practical AI-powered applications
-🌍 Contribute to open-source projects
-💼 Prepare for a full-time software development role
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yuk-tha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuk-tha&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Yuk-tha&theme=tokyonight&hide_border=true" /> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuk-tha&theme=tokyo-night&hide_border=true&area=true" /> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/Yuk-tha/Yuk-tha/output/github-contribution-grid-snake.svg" /> </div>
-🤝 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/yuktha-r/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Yuk-tha"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+| Technology | Progress |
+|------------|----------|
+| React.js | ███████████████████░░ 90% |
+| JavaScript | ██████████████████░░░ 85% |
+| MERN Stack | █████████████████░░░░ 80% |
+| UI/UX Design | ████████████████░░░░░ 75% |
+| Python | ███████████████░░░░░░ 70% |
+| AI / ML | █████████████░░░░░░░░ 65% |
+| TypeScript | ██████████░░░░░░░░░░░ 50% |
+| DSA | ██████████░░░░░░░░░░░ 50% |
+
+---
+
+# 🎯 Goals for 2026
+
+- 🚀 Build and deploy production-ready applications
+- ⚛️ Master advanced React development
+- 🛠️ Strengthen MERN stack development
+- 🧠 Improve Data Structures & Algorithms
+- 📘 Learn TypeScript
+- ☁️ Explore Cloud & DevOps technologies
+- 🤖 Build practical AI-powered applications
+- 🌍 Contribute to open-source projects
+- 💼 Prepare for a full-time software development role
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
-💫 "Code is like humor. When you have to explain it, it's bad." — Cory House
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yuk-tha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuk-tha&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Yuk-tha&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuk-tha&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Yuk-tha/Yuk-tha/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yuktha-r/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yuk-tha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 "Code is like humor. When you have to explain it, it's bad." — Cory House
+
 <br>
-🚀 Thanks for visiting my profile!
 
-⭐ Feel free to explore my repositories and connect with me!
+### 🚀 Thanks for visiting my profile!
 
-</div> ```
+⭐ **Feel free to explore my repositories and connect with me!**
+
+</div>
