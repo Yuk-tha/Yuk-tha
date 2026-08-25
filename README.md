@@ -69,8 +69,7 @@ Key features include:
 * User/Admin role-based access
 * Secure authentication
 
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
+
 
 ---
 
@@ -91,8 +90,6 @@ Key features include:
 * Notifications
 * Incident analytics
 
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
 
 ---
 
@@ -105,41 +102,6 @@ An AI/ML-based Digital Twin project focused on creating a digital representation
 
 Live Demo: [Project URL]
 Repository: [GitHub Repository]
-
----
-
-# GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[GitHubUsername]&theme=tokyo-night"/>
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
 
 ---
 
