@@ -8,7 +8,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Yuk-tha&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
 
 </div>
 
